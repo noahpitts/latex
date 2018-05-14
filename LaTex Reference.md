@@ -7,12 +7,7 @@
 | $\mathbb{R}$ | `\mathbb{R}` | Set of all real numbers                | $x\in\mathbb{R}^3$       |
 | $\mathbb{C}$ | `\mathbb{C}` | Set of all complex numbers             | $x\in\mathbb{C}$         |
 
-
-
-
-
-
-
+# LaTex Reference
 ### Greek and Hebrew Letters
 | symbol        | latex         | symbol        | latex         | symbol        | latex         | symbol        | latex         | symbol        | latex         | symbol        | latex         |
 | ------------: | ------------- | ------------: | ------------- | ------------: | ------------- | ------------: | ------------- | ------------: | ------------- | ------------: | ------------- |
